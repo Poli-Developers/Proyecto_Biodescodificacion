@@ -38,7 +38,7 @@ a {
 }
 a:hover,
 a:focus{
-	color: #9876DE;
+	color: #FCE38A;
 	text-decoration: none;
 }
 
@@ -61,7 +61,7 @@ a:focus{
 	background-position: center;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
-	color: #cfcfcf;
+	color: #cfcfcf    
 }
 
 #tf-home .overlay{
@@ -118,8 +118,18 @@ a:focus{
 	background-color: transparent;
 }
 
-.logo {
+#tf-menu.navbar-default .navbar-header > a:hover, 
+#tf-menu.navbar-default .navbar-header> a:focus {
+	color: #FCE38A;
+	background-color: transparent;
+}
+
+.logo,h4#slogan {
 	font-family: 'Playball', cursive;
+}
+h4#slogan{
+    letter-spacing: 0.8px;
+    font-size: 20px
 }
 
 #tf-service{
@@ -129,7 +139,7 @@ a:focus{
 .media-left.media-middle i {
 	padding: 20px 30px 20px 0;
 	font-size: 30px;
-	color: rgb(47, 147, 123);
+	color: rgb(152, 118, 222);
 
 }
 
@@ -137,7 +147,7 @@ a:focus{
 	margin-bottom: 20px;
 	font-size: 16px;
 	font-weight: 700;
-	color: rgb(47, 147, 123);
+	color: rgb(152, 118, 222);
 }
 
 #tf-portfolio{
@@ -147,7 +157,7 @@ a:focus{
 }
 
 .section-title hr{
-	border-color: rgb(47, 147, 123);
+	border-color: rgb(152, 118, 222);
 	width: 60px;
 }
 
