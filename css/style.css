@@ -29,7 +29,7 @@ h4 {
 	color: rgb(152, 118, 222);
 }
 p{
-	font-size: 13px;
+	font-size: 15px;
 }
 
 a { 
@@ -143,6 +143,7 @@ h4#slogan{
 
 #tf-service{
 	padding: 7% 0; 
+    text-align: center;
 }
 
 .media-left.media-middle i {
