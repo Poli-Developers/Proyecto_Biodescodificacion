@@ -252,6 +252,10 @@ ul.cat.list-inline li a:hover{
 	color: #3A4750;
 }
 
+#tf-about .section-title{
+	text-align: center;
+}
+
 #tf-about .overlay{
 	height: auto;
 	background-attachment: fixed;
