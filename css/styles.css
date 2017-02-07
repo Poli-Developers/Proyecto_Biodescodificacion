@@ -1,0 +1,17 @@
+/* normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+ html {
+    font-family:sans-serif;
+    -ms-text-size-adjust:100%;
+    -webkit-text-size-adjust:100%
+}
+
+h1 {
+    text-transform:uppercase;
+    letter-spacing:4px;
+    font-size:2rem
+}
+.infoAvatar .img {
+    border-radius:50%;
+    border:3px solid #9876DE
+}
+
